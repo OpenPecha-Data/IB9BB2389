@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W24589
   title: དེབ་ཆུང་ཨ་རུ་རའི་དགའ་ཚལ
-  volume: ''
+  volume:
+    78180d0a7bcf4820b4ca3e5274bfa223:
+      image_group_id: I1PD28135
+      title: Volume 1 of deb chung a ru ra'i dga' tshal
+      volume_number: 1
+      total_pages: 364
   author: ''
+ebook_metadata:
+  title: དེབ་ཆུང་ཨ་རུ་རའི་དགའ་ཚལ
+  author: ''
+  sku: P007896
+  cover: cover.jpg
+  layers:
+  - pagination
